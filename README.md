@@ -1,3 +1,6 @@
+![Banner](github banner.jpg)
+
+
 ## Hi there 👋, My name is Ruturaj Saravane.
 
 #### 🎓 Master's in Statistics | 📊 Data Analyst
