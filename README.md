@@ -2,6 +2,8 @@
 
 🎓 Master's in Statistics | 📊 Data Analyst
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruturaj-t-s&show_icons=true&theme=gruvbox)
+
 ## 💻 Tools & Technologies
 - SQL, Python, R(basic)
 - PowerBI, Tableau(basic)
