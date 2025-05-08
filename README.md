@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, My name is Ruturaj Saravane.
 
-<!--
-**ruturaj-t-s/ruturaj-t-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Statistics | 📊 Data Analyst
 
-Here are some ideas to get you started:
+## 💻 Tools & Technologies
+- SQL, Python, R(basic)
+- PowerBI, Tableau(basic)
+- Git & GitHub, VS Code
+- MySQL, Snowflake(basic), Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Currently Working On
+- 🏡 Real Life Machine Learning Projects
+- 📚 Learning Deep Learning
+- ✈ Exploring Myself
+
+## 📫 How to reach me
+- LinkedIn: www.linkedin.com/in/tsruturaj24by7
+- Email: tsruturaj@gmail.com
