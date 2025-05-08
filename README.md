@@ -3,10 +3,17 @@
 
 ## Hi there 👋, I'm Ruturaj.
 
-#### 🎓 Master's in Statistics | 📊 Data Analyst
-I love working on data and exploring analytical tools with growing field AI and ML.\
-I'm based in Kolhapur, India.\
-🤝 Open to collaborating on projects.
+#### Master's in Statistics | Data Analyst
+🎓 I love working on data and exploring analytical tools with growing field AI and ML.\
+🌍 I'm based in Kolhapur, India.\
+🤝 Open to collaborating on projects.\
+📖 Reading books (Fictional and Self Developement)\
+🎥 Passionate Interest in Mystery,Thrillers and Reality-Competition shows\
+
+## 📈 Currently Working On
+- 🏡 Real Life Machine Learning Projects
+- 📚 Learning Deep Learning
+- ✈ Exploring Myself
 
 ## 🛠️ My Tech Stack
 
@@ -23,11 +30,6 @@ I'm based in Kolhapur, India.\
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau (basic)](https://img.shields.io/badge/Tableau-Basic-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
-## 📈 Currently Working On
-- 🏡 Real Life Machine Learning Projects
-- 📚 Learning Deep Learning
-- ✈ Exploring Myself
 
 ## 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/tsruturaj24by7
