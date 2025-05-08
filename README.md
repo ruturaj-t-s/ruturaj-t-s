@@ -1,4 +1,4 @@
-![Banner](github banner.jpg)
+![Banner](github_banner.jpg)
 
 
 ## Hi there 👋, My name is Ruturaj Saravane.
