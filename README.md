@@ -31,7 +31,7 @@
 
 
 ## 📫 How to reach me
-- LinkedIn: www.linkedin.com/in/tsruturaj24by7
+- LinkedIn: www.linkedin.com/in/ruturajts
 - Email: tsruturaj@gmail.com
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ruturaj-t-s&show_icons=true&theme=gruvbox)
