@@ -1,7 +1,7 @@
 ![Banner](github_banner.jpg)
 
 
-## Master's in Statistics | Data Analyst
+## Data Analyst | Master's in Statistics
 
 🎓 I love working on data and exploring analytical tools with growing field AI and ML.\
 🌍 I'm based in Kolhapur, India.\
