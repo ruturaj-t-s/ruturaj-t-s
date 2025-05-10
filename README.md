@@ -1,9 +1,8 @@
 ![Banner](github_banner.jpg)
 
 
-## Hi there 👋, I'm Ruturaj.
+## Master's in Statistics | Data Analyst
 
-#### Master's in Statistics | Data Analyst
 🎓 I love working on data and exploring analytical tools with growing field AI and ML.\
 🌍 I'm based in Kolhapur, India.\
 🤝 Open to collaborating on projects.\
