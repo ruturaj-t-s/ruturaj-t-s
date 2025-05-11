@@ -11,7 +11,7 @@
 
 ## 📈 Currently Working On
 - 🏡 Real Life Machine Learning Projects
-- 📚 Learning Deep Learning
+- 📚 Learning Deep Learning and Cloud Era
 - ✈ Exploring Myself
 
 ## 🛠️ My Tech Stack
