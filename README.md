@@ -11,8 +11,8 @@
 
 ## 📈 Currently Working On
 - 🏡 Real Life Machine Learning Projects
-- 📚 Learning Deep Learning and Cloud Era
-- ✈ Exploring Myself
+- 📚 Diving deeper into NLP, DL and Agentic Era
+- ✈ Understanding and Exploring Businesses, Various Sectors
 
 ## 🛠️ My Tech Stack
 
